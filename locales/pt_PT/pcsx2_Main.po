@@ -1,4 +1,4 @@
-# Brazilian Portuguese Translation for pcsx2 (Main)
+# Portuguese Translation for pcsx2 (Main)
 # Copyright (C) 2019 PCSX2 Dev Team
 # This file is distributed under the same license as the PCSX2 package.
 # João B <soparajogosetestes@gmail.com>, 2021.
